@@ -36,7 +36,7 @@ Before running this script, ensure you have the following:
 ## Usage
 
 ### 1. Prepare Input Files
-- *Input file:** A text file (`input.txt`) containing IP addresses, one per line.
+- **Input file:** A text file (`input.txt`) containing IP addresses, one per line.
 - **OID list file:** A text file (`oids.txt`) containing OIDs, one per line.
 
 ### 2. Run the Script
