@@ -1,0 +1,5 @@
+# 1.3.6.1.2.1.1.1.0  # sysDescr - System Description
+# 1.3.6.1.2.1.1.4.0  # sysContact - Contact Information
+# 1.3.6.1.2.1.1.6.0  # sysLocation - Physical Location
+# 1.3.6.1.2.1.2.2.1.2.1  # ifDescr - Interface Description
+# 1.3.6.1.2.1.2.2.1.8.1  # ifOperStatus - Interface Status
