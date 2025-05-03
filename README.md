@@ -69,6 +69,3 @@ python snmp_scanner.py
 - Modify `community` in `snmp_scanner.py` to change the SNMP community string (default: `public`).
 - Update `input.txt` and `oids.txt` for different targets and queries.
 
-## License
-This project is licensed under the GNU V2.0 License.
-
